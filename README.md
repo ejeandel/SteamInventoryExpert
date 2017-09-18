@@ -1,3 +1,5 @@
+## This is a years old extension back-up, and there have been several changes made by Steam on their site during this time, which has definitely made some features broken and/or buggy on this version. Please be aware of this fact.
+
 #### How to install (Chrome)
 
 1. Download the project by clicking 'Download ZIP' on repository home page and extract the contents in some folder, or just clone the repository with `git clone`
